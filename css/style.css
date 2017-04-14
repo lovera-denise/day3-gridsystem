@@ -1,0 +1,84 @@
+.yellow {
+  background-color: yellow;
+  padding: 30px;
+}
+
+.blue {
+  background-color: blue;
+  height: 100px;
+
+}
+
+.green {
+  background-color:green;
+  height:50px;
+}
+
+.border {
+  border: 1px solid black;
+  padding:15px;
+}
+
+.red {
+  background-color:red;
+  height: 180px;
+}
+
+.lightblue {
+  background-color: lightblue;
+  height: 180px;
+}
+
+.orange {
+  background-color: orange;
+  height: 180px;
+}
+
+.black {
+  background-color: black;
+  color: white;
+  height: 50px;
+}
+
+@media only screen and (max-width: 768px) {
+  .yellow {
+    background-color: purple;
+    padding: 30px;
+  }
+  .blue {
+    background-color: yellow;
+    height: 100px;
+
+  }
+
+  .green {
+    background-color:pink;
+    height:50px;
+  }
+
+  .border {
+    border: 1px solid grey;
+    padding:15px;
+  }
+
+  .red {
+    background-color:white;
+    height: 180px;
+  }
+
+  .lightblue {
+    background-color: brown;
+    height: 180px;
+  }
+
+  .orange {
+    background-color: green;
+    height: 180px;
+  }
+
+  .black {
+    background-color: orange;
+    color: white;
+    height: 50px;
+  }
+}
