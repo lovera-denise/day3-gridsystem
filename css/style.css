@@ -1,0 +1,41 @@
+.yellow {
+  background-color: yellow;
+  padding: 30px;
+}
+
+.blue {
+  background-color: blue;
+  height: 100px;
+
+}
+
+.green {
+  background-color:green;
+  height:50px;
+}
+
+.border {
+  border: 1px solid black;
+  padding:15px;
+}
+
+.red {
+  background-color:red;
+  height: 180px;
+}
+
+.lightblue {
+  background-color: lightblue;
+  height: 180px;
+}
+
+.orange {
+  background-color: orange;
+  height: 180px;
+}
+
+.black {
+  background-color: black;
+  color: white;
+  height: 50px;
+}
